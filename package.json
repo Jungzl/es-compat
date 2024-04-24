@@ -2,6 +2,7 @@
   "name": "es-compat",
   "private": true,
   "type": "module",
+  "packageManager": "pnpm@9.0.5",
   "scripts": {
     "check": "run-p check:*",
     "check:lint": "eslint **/*.js",
